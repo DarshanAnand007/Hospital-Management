@@ -1,3 +1,7 @@
+/// # Author Darshan Anand
+/// Created on: 2024-12-09
+/// Purpose: Demonstrates a Google Map with custom markers for hospital locations.
+
 import 'dart:ui' as ui;
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
